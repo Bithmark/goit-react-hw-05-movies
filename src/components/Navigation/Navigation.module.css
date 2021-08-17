@@ -1,0 +1,22 @@
+
+.container {
+    /* border-radius: 10px; */
+    /* background-color: rgba(0, 170, 238, 0.8); */
+    background-color: greenyellow
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+    justify-content:flex-start;
+    padding-left: 0px;
+    margin-left: 20px;
+}
+
+.navListItem {
+    padding: 20px;
+}
+
+.link {
+    text-decoration: none;
+}
